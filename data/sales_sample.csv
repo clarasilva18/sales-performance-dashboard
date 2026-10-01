@@ -1,0 +1,121 @@
+date,product,quantity,revenue,customer
+2026-06-01,Bluetooth Headset,2,500,Hugo
+2026-06-03,Keyboard,3,540,Diego
+2026-06-04,Notebook,2,6400,Carla
+2026-06-06,Mouse,1,90,Elisa
+2026-06-06,Notebook,2,6400,Carla
+2026-06-07,Mouse,3,270,Ana
+2026-06-08,Smartphone,3,5400,Bruno
+2026-06-08,Bluetooth Headset,3,750,Fabio
+2026-06-08,Keyboard,3,540,Ana
+2026-06-08,Keyboard,1,180,Carla
+2026-06-09,Notebook,2,6400,Bruno
+2026-06-09,Keyboard,1,180,Diego
+2026-06-11,Smartphone,1,1800,Gabriela
+2026-06-11,Mouse,2,180,Bruno
+2026-06-12,Smartphone,1,1800,Ana
+2026-06-12,Notebook,1,3200,Carla
+2026-06-12,Smartphone,1,1800,Gabriela
+2026-06-12,Mouse,2,180,Elisa
+2026-06-13,Notebook,3,9600,Gabriela
+2026-06-15,Monitor,2,1800,Carla
+2026-06-15,Monitor,2,1800,Diego
+2026-06-15,Notebook,3,9600,Carla
+2026-06-17,Monitor,1,900,Diego
+2026-06-20,Monitor,1,900,Ana
+2026-06-20,Smartphone,2,3600,Diego
+2026-06-21,Monitor,2,1800,Diego
+2026-06-21,Bluetooth Headset,2,500,Elisa
+2026-06-25,Keyboard,2,360,Carla
+2026-06-26,Bluetooth Headset,2,500,Elisa
+2026-06-28,Mouse,2,180,Gabriela
+2026-06-28,Keyboard,3,540,Diego
+2026-06-28,Keyboard,1,180,Hugo
+2026-06-29,Bluetooth Headset,3,750,Elisa
+2026-07-01,Monitor,2,1800,Carla
+2026-07-02,Smartphone,1,1800,Bruno
+2026-07-02,Smartphone,1,1800,Fabio
+2026-07-02,Bluetooth Headset,2,500,Diego
+2026-07-02,Notebook,2,6400,Bruno
+2026-07-04,Smartphone,1,1800,Elisa
+2026-07-04,Keyboard,3,540,Gabriela
+2026-07-05,Notebook,1,3200,Fabio
+2026-07-05,Monitor,3,2700,Diego
+2026-07-05,Smartphone,3,5400,Bruno
+2026-07-06,Bluetooth Headset,3,750,Fabio
+2026-07-06,Notebook,2,6400,Fabio
+2026-07-07,Bluetooth Headset,3,750,Hugo
+2026-07-11,Notebook,1,3200,Hugo
+2026-07-14,Monitor,1,900,Diego
+2026-07-16,Bluetooth Headset,2,500,Hugo
+2026-07-16,Keyboard,2,360,Carla
+2026-07-17,Smartphone,1,1800,Hugo
+2026-07-17,Notebook,2,6400,Diego
+2026-07-18,Monitor,1,900,Hugo
+2026-07-19,Notebook,2,6400,Fabio
+2026-07-19,Notebook,2,6400,Diego
+2026-07-22,Notebook,3,9600,Diego
+2026-07-24,Mouse,3,270,Fabio
+2026-07-25,Smartphone,2,3600,Hugo
+2026-07-26,Smartphone,1,1800,Elisa
+2026-07-27,Keyboard,2,360,Bruno
+2026-07-29,Notebook,3,9600,Elisa
+2026-08-02,Bluetooth Headset,1,250,Gabriela
+2026-08-04,Smartphone,3,5400,Bruno
+2026-08-04,Bluetooth Headset,2,500,Ana
+2026-08-05,Smartphone,2,3600,Hugo
+2026-08-08,Notebook,2,6400,Bruno
+2026-08-08,Smartphone,3,5400,Elisa
+2026-08-09,Notebook,2,6400,Carla
+2026-08-10,Monitor,3,2700,Fabio
+2026-08-10,Notebook,3,9600,Bruno
+2026-08-10,Mouse,2,180,Ana
+2026-08-11,Smartphone,3,5400,Gabriela
+2026-08-13,Smartphone,3,5400,Bruno
+2026-08-14,Bluetooth Headset,3,750,Carla
+2026-08-14,Keyboard,1,180,Bruno
+2026-08-15,Bluetooth Headset,1,250,Ana
+2026-08-15,Smartphone,1,1800,Bruno
+2026-08-16,Notebook,2,6400,Gabriela
+2026-08-16,Bluetooth Headset,3,750,Elisa
+2026-08-16,Monitor,2,1800,Ana
+2026-08-17,Monitor,1,900,Hugo
+2026-08-17,Mouse,1,90,Diego
+2026-08-18,Mouse,3,270,Ana
+2026-08-19,Keyboard,1,180,Bruno
+2026-08-20,Smartphone,3,5400,Gabriela
+2026-08-21,Notebook,1,3200,Elisa
+2026-08-21,Monitor,1,900,Hugo
+2026-08-22,Keyboard,2,360,Fabio
+2026-08-24,Bluetooth Headset,3,750,Carla
+2026-08-24,Smartphone,2,3600,Fabio
+2026-08-25,Monitor,3,2700,Bruno
+2026-08-25,Mouse,2,180,Hugo
+2026-08-25,Keyboard,2,360,Bruno
+2026-08-26,Mouse,3,270,Bruno
+2026-08-27,Monitor,1,900,Diego
+2026-08-27,Keyboard,2,360,Fabio
+2026-08-27,Smartphone,3,5400,Bruno
+2026-08-30,Mouse,1,90,Diego
+2026-08-31,Monitor,2,1800,Fabio
+2026-08-31,Monitor,1,900,Elisa
+2026-09-03,Monitor,2,1800,Diego
+2026-09-04,Keyboard,2,360,Gabriela
+2026-09-04,Monitor,1,900,Ana
+2026-09-06,Monitor,1,900,Bruno
+2026-09-06,Keyboard,1,180,Carla
+2026-09-11,Notebook,1,3200,Diego
+2026-09-12,Notebook,1,3200,Gabriela
+2026-09-14,Notebook,2,6400,Gabriela
+2026-09-14,Smartphone,1,1800,Ana
+2026-09-15,Keyboard,3,540,Elisa
+2026-09-19,Mouse,1,90,Bruno
+2026-09-20,Mouse,2,180,Diego
+2026-09-21,Smartphone,2,3600,Bruno
+2026-09-21,Bluetooth Headset,1,250,Carla
+2026-09-22,Mouse,2,180,Carla
+2026-09-22,Notebook,3,9600,Carla
+2026-09-24,Notebook,1,3200,Gabriela
+2026-09-27,Mouse,3,270,Diego
+2026-09-27,Smartphone,1,1800,Carla
+2026-09-28,Monitor,1,900,Fabio
